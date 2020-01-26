@@ -1,0 +1,17 @@
+/* colors used in site */
+body {
+  font-size: 2.4vw;
+}
+#content-box {
+  margin-left: 7%;
+  margin-top: 3%;
+  font-family: century-supra-text;
+  line-height: 1.25em;
+  font-size: 0.9em;
+}
+#name-hindi {
+  color: #E34234;
+}
+.vertical-spacer {
+  height: 1rem;
+}
